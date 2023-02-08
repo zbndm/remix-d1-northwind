@@ -1,0 +1,10 @@
+name = "d1"
+compatibility_date = "2023-01-18"
+compatibility_flags = ["streams_enable_constructors"]
+
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "db"
+database_id = "4fc07678-e1f6-4163-a1d7-c7c3eb8deeae"
